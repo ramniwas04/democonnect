@@ -12,6 +12,7 @@
                     <Collection>
                         <PropertyPath>AgencyId</PropertyPath>
                         <PropertyPath>BeginDate</PropertyPath>
+                         <PropertyPath>Createdat</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
